@@ -34,7 +34,19 @@ h1,h2 {
     width: 72%;
 }
 
+.class-table {
+    width: 70%;
+    border: 1;
+}
 
+.class-table thead th {
+    text-align: left;
+}
+
+.class-table tbody td {
+    border-top: 1px black solid;
+    padding: 8px 0px;
+}
 
 .extra-curricular {
     width: 25%;
